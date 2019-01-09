@@ -1,2 +1,1 @@
-# dentopia.com.tr
-dentopia.com.tr
+https://www.dentopia.com.tr/
